@@ -14,5 +14,10 @@ class User < ActiveRecord::Base
   # def slug
   #   @name.downcase.split(' ').join('-')
   # end
-
+  validates :name, presence: true,
+                         uniqueness: true
+    validates :email,    presence: true,
+                         uniqueness: true,
+                         length:{maximum: 255},
+                         format: {with: /\w+@\w+\.\w+/}
 end
