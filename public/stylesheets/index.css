@@ -1,6 +1,15 @@
 /** {
   box-sizing: border-box;
 }*/
-body{
-color:black;
+body {
+color: black;
+}
+
+h1 {
+font-family: 'Seymour One', sans-serif;
+text-align: center;
+}
+
+h2 {
+ font-family: sans-serif;
 }
