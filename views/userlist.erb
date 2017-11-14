@@ -1,0 +1,19 @@
+
+<center>
+<h2>
+      <a href="/">Logout</a>
+
+    </h2>
+    </center>
+
+
+
+
+
+<h2>Users List</h2>
+
+ <% @user.each do |user| %>
+
+<li><%= user.name%></li>
+<li><%= user.email%></li>
+<% end %>
