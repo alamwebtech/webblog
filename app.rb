@@ -32,6 +32,11 @@ get '/logout' do
   redirect '/'
 end
 
+get '/log' do
+  @user = User.all
+  erb :'/log'
+end
+
 # get '/users' do
 #   erb :us
 # end
