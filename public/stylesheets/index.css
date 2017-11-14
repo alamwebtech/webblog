@@ -2,7 +2,8 @@
   box-sizing: border-box;
 }*/
 body {
-color: black;
+color: white;
+background-image: url("../img/cool-background.jpg");
 }
 
 h1 {
@@ -11,5 +12,5 @@ text-align: center;
 }
 
 h2 {
- font-family: sans-serif;
+ font-family: 'Bree Serif', serif;
 }
