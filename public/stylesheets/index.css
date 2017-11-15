@@ -1,26 +1,32 @@
-/** {
-  box-sizing: border-box;
-}*/
-body{
+
+
+body {
 color: white;
-background-image: url(images/cool-background.jpg);
-font-family: monospace;
+background-image: url("../img/cool-background.jpg");
 
 }
 
-.container {
-  border: 5px solid white;
-  background-color: grey;
+h1 {
+font-family: 'Seymour One', sans-serif;
+text-align: center;
+text-shadow: 2px 2px #ff0000;
 }
 
-.h1 {
-  text-align: center;
+h2 {
+ font-family: 'Seymour One', sans-serif;
+ text-align: center;
 }
 
-.h2 {
-  text-align: center;
+.time {
+	text-align: center;
+	font-family: 'Seymour One', sans-serif;
 }
 
-.h3 {
-  text-align: center;
+h3 {
+	text-align: center;
+	font-family: 'serif';
+}
+
+form {
+	text-align: center;
 }
