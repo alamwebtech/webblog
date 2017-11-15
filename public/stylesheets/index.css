@@ -6,30 +6,30 @@ color: white;
 background-image: url("../img/cool-background.jpg");
 }
 
-.h1 {
+.h1-index {
 font-family: 'Seymour One', sans-serif;
 text-align: center;
 text-shadow: 2px 2px #ff0000;
 }
 
-.h2 {
+.h2-index {
  font-family: 'Seymour One', sans-serif;
  text-align: center;
  text-shadow: 2px 2px #ff0000
 }
 
-.time {
+.time-index {
 	text-align: center;
 	font-family: 'Seymour One', sans-serif;
 	text-shadow: 1px 1px #ff0000
 }
 
-.h3 {
+.h3-index {
 	text-align: center;
 	font-family: 'serif';
 }
 
-.form {
+.form-index {
 	text-align: center;
 }
 
