@@ -4,8 +4,15 @@
 body{
 color: white;
 background-image: url(images/cool-background.jpg);
+font-family: monospace;
+
+}
 
 .container {
   border: 5px solid white;
-  margin-top: 20px;
+  background-color: grey;
+}
+
+.h1 {
+  text-align: center;
 }
