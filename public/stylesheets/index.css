@@ -2,10 +2,10 @@
   box-sizing: border-box;
 }*/
 body{
-color:black;
+color: white;
 background-image: url(images/cool-background.jpg);
 
 .container {
-  border: 2px solid black;
+  border: 5px solid white;
   margin-top: 20px;
 }
