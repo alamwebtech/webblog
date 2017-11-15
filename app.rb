@@ -47,5 +47,5 @@ post '/users' do
      email: params[:email]
 )
 
-     redirect "/log"
+     redirect "/userlist"
 end
