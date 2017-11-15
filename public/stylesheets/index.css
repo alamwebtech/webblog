@@ -1,15 +1,32 @@
-/** {
-  box-sizing: border-box;
-}*/
+
+
 body {
-color: black;
+color: white;
+background-image: url("../img/cool-background.jpg");
+
 }
 
 h1 {
 font-family: 'Seymour One', sans-serif;
 text-align: center;
+text-shadow: 2px 2px #ff0000;
 }
 
 h2 {
- font-family: sans-serif;
+ font-family: 'Seymour One', sans-serif;
+ text-align: center;
+}
+
+.time {
+	text-align: center;
+	font-family: 'Seymour One', sans-serif;
+}
+
+h3 {
+	text-align: center;
+	font-family: 'serif';
+}
+
+form {
+	text-align: center;
 }
