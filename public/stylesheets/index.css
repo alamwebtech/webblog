@@ -3,4 +3,9 @@
 }*/
 body{
 color:black;
+background-image: url(images/cool-background.jpg);
+
+.container {
+  border: 2px solid black;
+  margin-top: 20px;
 }
