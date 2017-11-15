@@ -13,9 +13,16 @@ text-align: center;
 
 h2 {
  font-family: 'Bree Serif', serif;
+ text-align: center;
 }
 
 .time {
 	text-align: center;
 	font-family: 'Seymour One', sans-serif;
+}
+
+
+
+form {
+	text-align: center;
 }
