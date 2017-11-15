@@ -22,11 +22,11 @@ text-shadow: 2px 2px #ff0000;
 	font-family: 'Seymour One', sans-serif;
 }
 
-h3 {
+.h3 {
 	text-align: center;
 	font-family: 'serif';
 }
 
-form {
+.form {
 	text-align: center;
 }
